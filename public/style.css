@@ -5,12 +5,10 @@
   --glass-bg: rgba(255, 255, 255, 0.18);
   --glass-border: rgba(255, 255, 255, 0.6);
   --shadow-soft: 0 0 12px rgba(0, 0, 0, 0.12);
-
 }
 
 * {
   box-sizing: border-box;
-  05:00
 }
 
 body {
