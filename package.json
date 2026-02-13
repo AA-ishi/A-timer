@@ -1,0 +1,12 @@
+{
+  "name": "timer-app",
+  "version": "1.0.0",
+  "description": "A simple timer app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^30.0.0"
+  }
+}

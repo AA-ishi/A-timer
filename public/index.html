@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <title>Sunrise Glass Timer</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="drag-area"></div>
+  
+  <div class="timer-wrapper">
+    
+    <div class="timer-circle">
+      
+      <!-- ★ 円の中にクローズボタンを入れる -->
+      <button id="mainCloseBtn" class="close-inside">×</button>
+
+      <div class="timer-current-time"><span id="current-time">00:00</span></div>
+
+      <div class="timer-remaining">
+        <span class="timer-remaining-value">05:00</span>
+      </div>
+
+      <div class="timer-progress-wrapper">
+        <div class="timer-progress-bar" id="progressBar"></div>
+      </div>
+
+      <div class="timer-buttons">
+        <button id="clearBtn" class="btn btn-cancel">リセット</button>
+        <button id="startBtn" class="btn btn-set">開始/停止</button>
+      </div>
+
+    </div>
+
+  </div>
+
+  <script type="module" src="../src/renderer-main.js"></script>
+</body>
+</html>

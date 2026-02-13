@@ -1,0 +1,33 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Run Electron in External Terminal",
+			"type": "shell",
+			"command": "cmd",
+			"isBackground": false
+		},
+		{
+			"label": "Run Electron Externally",
+			"type": "shell",
+			"command": "start",
+			"args": [
+				"cmd",
+				"/k",
+				"npm start"
+			],
+			"isBackground": false
+		},
+		{
+			"label": "Run Electron Externally",
+			"type": "shell",
+			"command": "Start-Process",
+			"args": [
+				"cmd",
+				"/k",
+				"npm start"
+			],
+			"isBackground": false
+		}
+	]
+}
