@@ -1,7 +1,11 @@
 # Cute Timer（A-timer）
 
-透明で、ほっこり使えるデスクトップ用タイマーアプリです。  
-作業・勉強・休憩など、ちょっとした時間管理に使えます。
+透明感のある、音がしないデスクトップ用タイマーアプリです。
+時間になるとキラキラ光るので画面に集中していても
+時間が来たことに気が付けます。
+発表の時にキラキラが見えたら時間が来たことがわかります。
+作業・勉強・休憩など、音が鳴らないからこその
+使い方はあなた次第で時間管理に使えます。
 
 ---
 
@@ -57,6 +61,40 @@
 
 ---
 
-## 📄 ライセンス
-MIT License  
-自由に使っていただけます。
+
+## 📄 ライセンスについて
+
+© 2026 Asako
+このアプリは、個人の作業や勉強などで **自由に使っていただけます。**
+
+ただし、次のことだけはご遠慮ください。
+
+- このアプリを **商用目的で使うこと**（販売・有料サービスへの組み込みなど）
+- アプリの中身を **再配布したり、改変して別の作品として公開すること**
+- 作者である私（Asako）以外の人が **自分の作品だと主張すること**
+
+もし、このアプリを何かの形で再利用したり、  
+どこかに載せたりする場合は、  
+**ひとこと教えていただけると嬉しいです。**
+
+このアプリ、使っていただけるのはとても嬉しいです 
+上記の点だけ守っていただければ幸いです。
+
+## 📄 About the License
+
+© 2026 Asako  
+This software is licensed under the MIT License.
+
+You are welcome to use this app freely for your personal work or study.
+
+However, please refrain from the following:
+
+- Using this app for **commercial purposes** (such as selling it or including it in paid services)
+- **Redistributing or modifying** the app and publishing it as another work
+- Claiming that **anyone other than me (Asako)** is the creator of this app
+
+If you reuse this app in any way or post it somewhere,  
+I would be happy if you could **let me know with a short message**.
+
+I’m truly glad if this app is helpful for you.  
+I would just appreciate it if you could follow the points above.
