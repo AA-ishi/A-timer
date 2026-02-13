@@ -4,7 +4,7 @@
   --white: #ffffff;
   --glass-bg: rgba(255, 255, 255, 0.18);
   --glass-border: rgba(255, 255, 255, 0.6);
-  --shadow-soft: 0 10px 20px rgba(0, 0, 0, 0.18);
+  --shadow-soft: 0 10px 20px rgba(0, 0, 0, 0.05);
 }
 
 * {
