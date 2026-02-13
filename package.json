@@ -1,12 +1,15 @@
 {
-  "name": "timer-app",
+  "name": "cute-timer",
   "version": "1.0.0",
-  "description": "A simple timer app",
   "main": "main.js",
-  "scripts": {
-    "start": "electron ."
+  "build": {
+    "appId": "com.asako.timer",
+    "win": {
+      "target": "portable"
+    }
   },
-  "devDependencies": {
-    "electron": "^30.0.0"
+  "scripts": {
+    "start": "electron .",
+    "dist": "electron-builder"
   }
 }

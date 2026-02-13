@@ -4,11 +4,13 @@
   --white: #ffffff;
   --glass-bg: rgba(255, 255, 255, 0.18);
   --glass-border: rgba(255, 255, 255, 0.6);
-  --shadow-soft: 0 10px 20px rgba(0, 0, 0, 0.18);
+  --shadow-soft: 0 0 12px rgba(0, 0, 0, 0.12);
+
 }
 
 * {
   box-sizing: border-box;
+  05:00
 }
 
 body {
@@ -29,7 +31,7 @@ body {
 
 .timer-circle {
   aspect-ratio: 1 / 1;
-  width: 100%;
+  width: 88%;
   height: auto;
   border-radius: 50%;
   background: linear-gradient(145deg, var(--grad-start), var(--grad-end));
