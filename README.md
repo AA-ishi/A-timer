@@ -37,6 +37,7 @@
 ### ③ スタート
 「Start」ボタンを押すとカウントダウンが始まります。
 
+<img width="450" height="409" alt="image" src="https://github.com/user-attachments/assets/c874b295-c2df-491d-a51c-9031f7bf99e5" />
 
 
 
