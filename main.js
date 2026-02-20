@@ -80,6 +80,8 @@ function openSettingsWindow(centerX = null, centerY = null) {
     resizable: false,
     alwaysOnTop: true,
     skipTaskbar: true,
+    minimizable: true,   // ← これが必要！
+    skipTaskbar: false,  // ← 念のため入れておくと安定
     parent: mainWindow,
     webPreferences: {
       preload: path.join(__dirname, 'preload/preload-settings.js'),
