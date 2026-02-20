@@ -34,6 +34,8 @@ function createWindow() {
     backgroundColor: "#00000000",
     frame: false,
     resizable: true,
+    minimizable: true,   // ← これが必要！
+    skipTaskbar: false,  // ← 念のため入れておくと安定
 
     webPreferences: {
       preload: path.join(__dirname, 'preload/preload-main.js'),
